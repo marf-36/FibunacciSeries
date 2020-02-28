@@ -1,2 +1,2 @@
 # Hello GitHub
-= This is dog
+This is dog
